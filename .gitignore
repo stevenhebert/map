@@ -31,3 +31,12 @@ vignettes/*.pdf
 # Temporary files created by R markdown
 *.utf8.md
 *.knit.md
+
+debug/data/hrr.json
+debug/data/hsa.json
+debug/data/idaho.json
+debug/data/zips.json
+geojson-vt-dev.js
+geojson-vt.js
+node_modules
+coverage
