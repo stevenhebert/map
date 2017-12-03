@@ -32,11 +32,12 @@ vignettes/*.pdf
 *.utf8.md
 *.knit.md
 
-debug/data/hrr.json
-debug/data/hsa.json
-debug/data/idaho.json
-debug/data/zips.json
-geojson-vt-dev.js
-geojson-vt.js
+
 node_modules
-coverage
+vendor
+npm-debug.log
+.gobble-build
+dist
+.gobble
+.gobble-build
+.gobble-watch
