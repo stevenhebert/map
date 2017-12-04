@@ -41,3 +41,8 @@ dist
 .gobble
 .gobble-build
 .gobble-watch
+
+data/
+
+.idea/
+
